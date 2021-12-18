@@ -1,0 +1,27 @@
+{
+  "name": "dsocialclub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandolphRichard/DsocialClub.git"
+  },
+  "author": "Randolph Richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RandolphRichard/DsocialClub/issues"
+  },
+  "homepage": "https://github.com/RandolphRichard/DsocialClub#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.2",
+    "nodemon": "^2.0.15"
+  }
+}
