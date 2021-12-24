@@ -34,12 +34,12 @@ How to start the application’s server.
 
 * POST Thoughts in Users profile
 * PUT Thoughts in Users profile
-* Delete Thoughts and users profile
+* DELETE Thoughts and users profile
 * https://watch.screencastify.com/v/m2EWHXZS8qV4LZpAjReD
 
 * POST Reactions in User's Thoughts profile
-* Put Reactions in User's Thoughts in Users profile
-* Delete Reactions in User's Thoughts profile
+* PUT Reactions in User's Thoughts in Users profile
+* DELETE Reactions in User's Thoughts profile
 * https://watch.screencastify.com/v/kbl0o9YfPwYrNOgHmZqj
 
 * POST Friends in Users profile
